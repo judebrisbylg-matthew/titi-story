@@ -1,0 +1,4 @@
+interface:
+  display_name: "TiTi Photoshop 十二宫格提取"
+  short_description: "按顺序提取12张竖图，去宫格白边、居中铺满并保存PNG"
+  default_prompt: "使用 $titi-ps-grid-extract，把已确认的2行6列宫格用Photoshop提取为1.png到12.png，保存到我提供的目录。"
