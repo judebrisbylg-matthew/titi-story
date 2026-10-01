@@ -1,0 +1,4 @@
+interface:
+  display_name: "TiTi Story"
+  short_description: "按TiTi固定模板输出儿童英语分镜故事脚本"
+  default_prompt: "Use $titi-story to write a new TiTi 12-shot children story script from a core word."
