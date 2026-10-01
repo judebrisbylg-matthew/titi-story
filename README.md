@@ -2,10 +2,10 @@
 
 从故事脚本到十二张分镜单图。合集包含两个独立 Codex skill：
 
-| Skill | 用途 | 输入 |
-|---|---|---|
-| [titi-story](skills/titi-story/SKILL.md) | 制作模版3.0故事、双语脚本、连续12镜头和画面提示词 | 核心词与故事要求 |
-| [titi-ps-grid-extract](skills/titi-ps-grid-extract/SKILL.md) | 用Photoshop按顺序提取已确认的2×6宫格 | 已确认原图＋保存目录 |
+| Skill | 用途 | 输入 | HTML |
+|---|---|---|---|
+| [titi-story](skills/titi-story/SKILL.md) | 制作模版3.0故事、双语脚本、连续12镜头和画面提示词 | 核心词与故事要求 | [打开 HTML](https://htmlpreview.github.io/?https://github.com/judebrisbylg-matthew/titi-story/blob/main/docs/story/titi-skill-guide.html) |
+| [titi-ps-grid-extract](skills/titi-ps-grid-extract/SKILL.md) | 用Photoshop按顺序提取已确认的2×6宫格 | 已确认原图＋保存目录 | [打开 HTML](https://htmlpreview.github.io/?https://github.com/judebrisbylg-matthew/titi-story/blob/main/docs/ps-grid-workflow.html) |
 
 ## 操作手册
 
