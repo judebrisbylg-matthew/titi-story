@@ -4,7 +4,7 @@
 
 | Skill | 用途 | 输入 | HTML |
 |---|---|---|---|
-| [titi-story](skills/titi-story/SKILL.md) | 制作模版3.0故事、双语脚本、连续12镜头和画面提示词 | 核心词与故事要求 | [打开 HTML](https://htmlpreview.github.io/?https://github.com/judebrisbylg-matthew/titi-story/blob/main/docs/story/titi-skill-guide.html) |
+| [titi-story](skills/titi-story/SKILL.md) | v3.0.0故事流程、12个独立镜头、深夜教学与六段音乐提示词 | 核心词与故事要求 | [打开 HTML](https://htmlpreview.github.io/?https://github.com/judebrisbylg-matthew/titi-story/blob/main/docs/story/titi-skill-guide.html) |
 | [titi-ps-grid-extract](skills/titi-ps-grid-extract/SKILL.md) | 用Photoshop按顺序提取已确认的2×6宫格 | 已确认原图＋保存目录 | [打开 HTML](https://htmlpreview.github.io/?https://github.com/judebrisbylg-matthew/titi-story/blob/main/docs/ps-grid-workflow.html) |
 
 ## 操作手册
@@ -44,7 +44,7 @@ cp -R skills/titi-ps-grid-extract ~/.codex/skills/
 
 [实跑与测试记录](docs/validation.md)。源Apple宫格成功导出12张并视觉核验；同名文件备份行为已在独立目录测试。自动化默认2行6列，其他输入不能套用示例坐标。
 
-故事skill完整同步自[原仓库](https://github.com/judebrisbylg-matthew/titi-story-skill)，源提交`8d877a4`，v2.2.0。原仓库保留，故事skill内容未修改；原说明、模板与示例存于[docs/story](docs/story)。
+故事skill最初同步自[原仓库](https://github.com/judebrisbylg-matthew/titi-story-skill)的`8d877a4`（v2.2.0），现已按确认流程更新为v3.0.0：先5个大纲、深夜局部暖光、片头片尾统一构图与弧形英文、咒语实际尾音后立即亮灯、六段分别包含低声床音乐与完整复制范围。旧单集示例仅供剧情参考，不覆盖当前[Skill](skills/titi-story/SKILL.md)及[输出规范](skills/titi-story/references/output-format.md)。Photoshop提取skill未改动。
 
 ## 本地检查
 
